@@ -1,0 +1,7 @@
+conflict demo
+
+<<<<<<< HEAD
+dev1-line
+=======
+dev2- line
+>>>>>>> 9aa9f46b049f99ad7db0b3e782b1b9d4aa769d58

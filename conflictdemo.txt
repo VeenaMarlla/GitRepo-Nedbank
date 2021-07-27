@@ -1,3 +1,7 @@
 conflict demo
 
+
 dev1-line
+
+dev2- line
+
